@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/easynice/easynice.github.io.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/easynice/easynice.github.io.git/static/js/main.4dcf4ae9.chunk.js",
-    "main.js.map": "/easynice/easynice.github.io.git/static/js/main.4dcf4ae9.chunk.js.map",
-    "runtime-main.js": "/easynice/easynice.github.io.git/static/js/runtime-main.d3034a46.js",
-    "runtime-main.js.map": "/easynice/easynice.github.io.git/static/js/runtime-main.d3034a46.js.map",
-    "static/js/2.430be047.chunk.js": "/easynice/easynice.github.io.git/static/js/2.430be047.chunk.js",
-    "static/js/2.430be047.chunk.js.map": "/easynice/easynice.github.io.git/static/js/2.430be047.chunk.js.map",
-    "static/js/3.dbfddeac.chunk.js": "/easynice/easynice.github.io.git/static/js/3.dbfddeac.chunk.js",
-    "static/js/3.dbfddeac.chunk.js.map": "/easynice/easynice.github.io.git/static/js/3.dbfddeac.chunk.js.map",
-    "index.html": "/easynice/easynice.github.io.git/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/easynice/easynice.github.io.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.430be047.chunk.js.LICENSE.txt": "/easynice/easynice.github.io.git/static/js/2.430be047.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/easynice/easynice.github.io.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/portfolio/static/js/main.4dcf4ae9.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4dcf4ae9.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.cf469a33.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.cf469a33.js.map",
+    "static/js/2.430be047.chunk.js": "/portfolio/static/js/2.430be047.chunk.js",
+    "static/js/2.430be047.chunk.js.map": "/portfolio/static/js/2.430be047.chunk.js.map",
+    "static/js/3.dbfddeac.chunk.js": "/portfolio/static/js/3.dbfddeac.chunk.js",
+    "static/js/3.dbfddeac.chunk.js.map": "/portfolio/static/js/3.dbfddeac.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.430be047.chunk.js.LICENSE.txt": "/portfolio/static/js/2.430be047.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3034a46.js",
+    "static/js/runtime-main.cf469a33.js",
     "static/js/2.430be047.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.4dcf4ae9.chunk.js"
